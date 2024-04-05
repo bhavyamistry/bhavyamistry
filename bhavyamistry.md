@@ -6,12 +6,15 @@ I am a dedicated problem solver with a deep passion for software development and
 
 I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects.
 
-**Professional Experience:**
-Having two years of diverse work experience in the USA and India, I've gained invaluable technical exposure, actively contributing to live projects. 
+## **Professional Experience:**
+I have **2** years of diverse work experience in the USA and India, gaining invaluable technical exposure, and actively contributing to live projects. 
 
-- 🏦 Interned at Start With Genesis
-- 🌱 Adept with MERN stack and Python Frameworks
-- :blue_book: I’m currently learning React Native
+**Current:**
+  - 🔍 Graduate Research Assistant - Kelley School Of Business (Indiana University) [Aug 2023 - Current]
+**Internship:**
+  - Software Engineering Intern - Tech For Good Inc. (Non-Profit), Boston, MA, USA [May 2023 - Aug 2023]
+  - Junior Developer Intern - Mark Web Solutions, Bost, MA [May 2023 - Aug 2023]
+- Freelance: Mevada Engineering Words 
 - 👯 We can connect on Chess.com♟ to play some games
 - :cloud: J'apprends le français (I am learning to speak French :blush: )
 
