@@ -26,6 +26,8 @@ I have **2** years of diverse work experience in the USA and India, gaining inva
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya-mistry" alt="bhavya-mistry" /> </p> 
 
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### Skills I am proficient in
 
 #### :point_right: Frontend
