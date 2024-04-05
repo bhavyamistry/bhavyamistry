@@ -2,21 +2,27 @@
 ## 👋 Hello, I'm Bhavya Mistry!👨‍💻
 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓
 
-I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions, finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀
+I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀
 
 I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects.
 
 ## **Professional Experience:**
+
 I have **2** years of diverse work experience in the USA and India, gaining invaluable technical exposure, and actively contributing to live projects. 
 
-**Current:**
-  - 🔍 Graduate Research Assistant - Kelley School Of Business (Indiana University) [Aug 2023 - Current]
-**Internship:**
+**Current:** 🔍 Graduate Research Assistant - Kelley School Of Business (Indiana University) [Aug 2023 - Current]
+
+**Internships:**
+
   - Software Engineering Intern - Tech For Good Inc. (Non-Profit), Boston, MA, USA [May 2023 - Aug 2023]
-  - Junior Developer Intern - Mark Web Solutions, Bost, MA [May 2023 - Aug 2023]
-- Freelance: Mevada Engineering Words 
+  - Junior Developer Intern - Mark Web Solutions, Mumbai, MH, INDIA [May 2019 - Aug 2019]
+
+**Freelance:** 
+
+ - Freelance Full Stack Developer: Mevada Engineering Works Pvt Ltd., Mumbai, MH, INDIA [Mar 2021 - Apr - 2022]
+ - Freelance Web Developer: Programmatix Institute, Mumbai, MH, INDIA [May 2022 - Aug - 2022]
+
 - 👯 We can connect on Chess.com♟ to play some games
-- :cloud: J'apprends le français (I am learning to speak French :blush: )
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=het-parekh" alt="het-parekh" /> </p> 
 
