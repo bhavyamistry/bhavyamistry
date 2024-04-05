@@ -28,7 +28,7 @@ I have **2** years of diverse work experience in the USA and India, gaining inva
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
 
-### Skills I am proficient in
+## Skills I am proficient in
 
 #### :point_right: Frontend
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
