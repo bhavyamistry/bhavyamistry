@@ -24,7 +24,7 @@ I have **2** years of diverse work experience in the USA and India, gaining inva
 
 - 👯 We can connect on Chess.com♟ to play some games
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=het-parekh" alt="het-parekh" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya-mistry" alt="bhavya-mistry" /> </p> 
 
 ### Skills I am proficient in
 
