@@ -26,7 +26,7 @@ I have **2** years of diverse work experience in the USA and India, gaining inva
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya-mistry" alt="bhavya-mistry" /> </p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamistry)](https://github.com/bhavyamistry/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ### Skills I am proficient in
 
