@@ -1,12 +1,8 @@
 <h1> 👋 Hello, I'm Bhavya Mistry!👨‍💻 </h1>
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Engineer+👩‍🔬;Up+and+Coming+SDE+📊;Coder+💻;)](https://git.io/typing-svg)
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
   👀 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓<br>
   I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀 <br>
