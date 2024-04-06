@@ -4,11 +4,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
-  👀 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓<br>
+  👀 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓<br><br>
   
-  I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀 <br>
+  I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀 <br><br>
   
-  I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects. <br>
+  I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects. <br><br>
   
   📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br>
   
@@ -16,10 +16,7 @@
   
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
   </div>
-<br>
-<br>
-<br>
-
+  
 ## **Professional Experience:**
 
 I have **2** years of diverse work experience in the USA and India, gaining invaluable technical exposure, and actively contributing to live projects. 
@@ -30,7 +27,6 @@ I have **2** years of diverse work experience in the USA and India, gaining inva
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya-mistry" alt="bhavya-mistry" /> </p> 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
 
 ## 📈 Profile Stats
 
