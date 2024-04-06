@@ -2,21 +2,17 @@
 
 <img src="./images/coding.gif" width="40%" alt="vector" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Developer+Engineer+👨‍💻;Full+Stack+Engineer+🖥️🔀💻;Backend+Engineer+💽;Frontend+Engineer+🎨;Cloud+Engineer+☁️;DevOps+Engineer+🛠️;Application+Development+📱;Web+Developer+🌐;Data+Analysis+📊;Machine+Learning+🤖)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
-  👀 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓<br><br>
-  
-  I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀 <br><br>
-  
-  I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects. <br><br>
-  
-  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br><br>
-  
-  📫  Let's connect at brmistry@iu.edu <br> 
-  
-  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Developer+Engineer+👨‍💻;Full+Stack+Engineer+🖥️🔀💻;Backend+Engineer+💽;Frontend+Engineer+🎨;Cloud+Engineer+☁️;DevOps+Engineer+🛠️;Application+Development+📱;Web+Developer+🌐;Data+Analysis+📊;Machine+Learning+🤖)](https://git.io/typing-svg)
+  <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
+  🎓 Master's in Computer Science at Indiana University Bloomington, USA. 
+  🧩 Dedicated problem solver with a deep passion for software development and algorithms.
+  🛰️ Skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit,
+  👥 Dedicated team player, 
+  💻 hands-on experience in software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects, 
+  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024,
+  📫  Let's connect at brmistry@iu.edu
+  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">Visit My Portfolio</a>
   </div>
   
 ## Professional Experience:
