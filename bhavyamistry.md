@@ -17,26 +17,21 @@
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
   </div>
   
-## **Professional Experience:**
+## Professional Experience:
 
 I have **2** years of diverse work experience in the USA and India, gaining invaluable technical exposure, and actively contributing to live projects. 
 
 **Current:** 🔍 Graduate Research Assistant - Kelley School Of Business (Indiana University) [Aug 2023 - Current]
 
-- 👯 We can connect on Chess.com♟ to play some games
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya-mistry" alt="bhavya-mistry" /> </p> 
-
-
 ## 📈 Profile Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavyamistry&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamistry&layout=compact&theme=transparent&hide_border=true)](https://github.com/bhavyamistry/github-readme-stats)
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
+[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyamistry&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/bhavyamistry)
 
 <div align = "center">
 
-[![Annarhysa's GitHub | Dependencies](https://stats.quine.sh/Annarhysa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa) 
+[![Bhavya's GitHub | Dependencies](https://stats.quine.sh/bhavyamistry/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bhavyamistry) 
 
 </p>
 </div>
