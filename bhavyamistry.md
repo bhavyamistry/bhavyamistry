@@ -4,8 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Developer+Engineer+👨‍💻;Full+Stack+Engineer+🖥️🔀💻;Backend+Engineer+💽;Frontend+Engineer+🎨;Cloud+Engineer+☁️;DevOps+Engineer+🛠️;Application+Development+📱;Web+Developer+🌐;Data+Analysis+📊;Machine+Learning+🤖;)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
+
 <div align = "left">
-  <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
   🎓 Master's in Computer Science at Indiana University Bloomington, USA. 
   🧩 Dedicated problem solver with a deep passion for software development and algorithms.
   🛰️ Skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit,
