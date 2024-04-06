@@ -16,12 +16,6 @@
   📫  Let's connect at brmistry@iu.edu <br>
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">Visit My Portfolio</a><br>
   </div>
-  
-## Professional Experience:
-
-I have **2** years of diverse work experience in the USA and India, gaining invaluable technical exposure, and actively contributing to live projects. 
-
-**Current:** 🔍 Graduate Research Assistant - Kelley School Of Business (Indiana University) [Aug 2023 - Current]
 
 ## 📈 Profile Stats
 
