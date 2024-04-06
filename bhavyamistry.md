@@ -5,10 +5,15 @@
 <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
   👀 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓<br>
+  
   I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀 <br>
+  
   I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects. <br>
+  
   📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br>
+  
   📫  Let's connect at brmistry@iu.edu <br> 
+  
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
   </div>
 <br>
