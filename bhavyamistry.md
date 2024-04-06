@@ -1,10 +1,23 @@
+<h1> 👋 Hello, I'm Bhavya Mistry!👨‍💻 </h1>
 
-## 👋 Hello, I'm Bhavya Mistry!👨‍💻
-I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓
+<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
 
-I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀
+<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
 
-I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
+<div align = "left">
+  👀 I'm a graduate student pursuing a Master's in Computer Science at Indiana University Bloomington, currently enrolled at the Luddy School of Informatics, Computing, and Engineering. 🎓<br>
+  I am a dedicated problem solver with a deep passion for software development and algorithms. I have fueled my journey in computer science by tackling day-to-day challenges through innovative solutions and finding satisfaction along the way. Leading projects from inception to success have been a driving force, as seen in my undergraduate final-year project, which garnered high praise from the department. 🚀 <br>
+  I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects. <br>
+  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br>
+  📫  Let's connect at brmistry@iu.edu <br> 
+  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">My Portfolio</a>
+  </div>
+<br>
+<br>
+<br>
 
 ## **Professional Experience:**
 
@@ -12,21 +25,24 @@ I have **2** years of diverse work experience in the USA and India, gaining inva
 
 **Current:** 🔍 Graduate Research Assistant - Kelley School Of Business (Indiana University) [Aug 2023 - Current]
 
-**Internships:**
-
-  - Software Engineering Intern - Tech For Good Inc. (Non-Profit), Boston, MA, USA [May 2023 - Aug 2023]
-  - Junior Developer Intern - Mark Web Solutions, Mumbai, MH, INDIA [May 2019 - Aug 2019]
-
-**Freelance:** 
-
- - Freelance Full Stack Developer: Mevada Engineering Works Pvt Ltd., Mumbai, MH, INDIA [Mar 2021 - Apr - 2022]
- - Freelance Web Developer: Programmatix Institute, Mumbai, MH, INDIA [May 2022 - Aug - 2022]
-
 - 👯 We can connect on Chess.com♟ to play some games
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya-mistry" alt="bhavya-mistry" /> </p> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
+
+## 📈 Profile Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Annarhysa&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annarhysa&layout=compact&theme=transparent&hide_border=true)](https://github.com/Annarhysa/github-readme-stats)
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
+
+<div align = "center">
+
+[![Annarhysa's GitHub | Dependencies](https://stats.quine.sh/Annarhysa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Annarhysa) 
+
+</p>
+</div>
 
 ## Skills I am proficient in
 
