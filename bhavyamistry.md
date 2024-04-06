@@ -14,7 +14,7 @@
   💻 hands-on experience in software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects <br>
   📖 Seeking Full-Time Positions in Software / Full-stack / Front-end / Back-end Engineering starting in June 2024 <br>
   📫  Let's connect at brmistry@iu.edu <br>
-  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">Visit My Portfolio</a><br>
+  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">View My Portfolio</a><br>
   </div>
 
 ## 📈 Profile Stats
