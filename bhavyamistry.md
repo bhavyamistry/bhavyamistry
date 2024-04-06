@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello, I'm Bhavya Mistry!👨‍💻 </h1>
 
-<img src="./images/coding.gif" width="32%" alt="vector" align="right">
+<img src="./images/coding.gif" width="100%" alt="vector" align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Developer+Engineer+👨‍💻;Full+Stack+Engineer+🖥️🔀💻;Backend+Engineer+💽;Frontend+Engineer+🎨;Cloud+Engineer+☁️;DevOps+Engineer+🛠️;Application+Development+📱;Web+Developer+🌐;Data+Analysis+📊;Machine+Learning+🤖)](https://git.io/typing-svg)
 
