@@ -16,11 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 
 ## 📈 Profile Stats
-<center>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavyamistry&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamistry&layout=compact&theme=transparent&hide_border=true)](https://github.com/bhavyamistry/github-readme-stats)
 
 [![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyamistry&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/bhavyamistry)
-</center>
 
 ## Skills 
 
