@@ -1,6 +1,6 @@
 <h1> 👋 Hello, I'm Bhavya Mistry!👨‍💻 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Engineer+👩‍🔬;Up+and+Coming+SDE+📊;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Engineer+👨‍💻;Up+Coming+SDE+📊;Coder+💻;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
