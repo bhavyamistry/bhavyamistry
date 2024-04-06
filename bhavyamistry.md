@@ -1,4 +1,4 @@
-<h1> 👋 Hello, I'm Bhavya Mistry!👨‍💻 </h1>
+<h1 align="center"> 👋 Hello, I'm Bhavya Mistry!👨‍💻 </h1>
 
 <img src="./images/coding.gif" width="32%" alt="vector" align="right">
 
