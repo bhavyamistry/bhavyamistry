@@ -10,7 +10,7 @@
   
   I'm a skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit. As a dedicated team player, I bring hands-on experience in 💻 software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects. <br><br>
   
-  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br>
+  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br><br>
   
   📫  Let's connect at brmistry@iu.edu <br> 
   
