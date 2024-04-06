@@ -7,14 +7,14 @@
 <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 
 <div align = "left">
-  🎓 Master's in Computer Science at Indiana University Bloomington, USA. 
-  🧩 Dedicated problem solver with a deep passion for software development and algorithms.
-  🛰️ Skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit,
-  👥 Dedicated team player, 
-  💻 hands-on experience in software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects, 
-  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024,
-  📫  Let's connect at brmistry@iu.edu
-  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">Visit My Portfolio</a>
+  🎓 Master's in Computer Science at Indiana University Bloomington, USA.<br> 
+  🧩 Dedicated problem solver with a deep passion for software development and algorithms.<br>
+  🛰️ Skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit<br>
+  👥 Dedicated team player <br>
+  💻 hands-on experience in software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects <br>
+  📖 Seeking Full-Time Positions in Full-stack Development, Software Engineering, and Front-end/Back-end Engineering starting in June 2024 <br>
+  📫  Let's connect at brmistry@iu.edu <br>
+  🕸️ <a href = "https://annarhysa-albert.my.canva.site/">Visit My Portfolio</a><br>
   </div>
   
 ## Professional Experience:
