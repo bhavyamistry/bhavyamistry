@@ -23,12 +23,6 @@
 
 [![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyamistry&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/bhavyamistry)
 
-<div align = "center">
-
-[![Bhavya's GitHub | Dependencies](https://stats.quine.sh/bhavyamistry/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bhavyamistry) 
-
-</p>
-</div>
 
 ## Skills I am proficient in
 
