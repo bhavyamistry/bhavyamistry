@@ -6,7 +6,7 @@
   🎓 Master's in Computer Science at Indiana University Bloomington, USA.<br> 
   🧩 Dedicated problem solver with a deep passion for software development and algorithms.<br>
   🛰️ Skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit<br>
-  👥 Adaptable, Dedicated, result driven team player <br>
+  👥 Adaptable, Dedicated, result-driven team player <br>
   💻 hands-on experience in software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects <br>
   📖 Seeking Full-Time Positions in Software / Full-stack / Front-end / Back-end Engineering starting in June 2024 <br>
   📫  Let's connect at brmistry@iu.edu <br>
@@ -82,7 +82,6 @@
 #### :point_right: Tools I use
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 #### :handshake: Connect with me on
