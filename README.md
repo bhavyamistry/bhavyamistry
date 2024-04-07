@@ -15,6 +15,11 @@
   <br>
 <img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 
+#### :handshake: Connect with me on
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhavyamistry/) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bhavya_mstry)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mistrybhavya/)
+
 ## 📈 Profile Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavyamistry&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamistry&layout=compact&theme=transparent&hide_border=true)](https://github.com/bhavyamistry/github-readme-stats)
 
@@ -83,8 +88,3 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-#### :handshake: Connect with me on
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhavyamistry/) 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bhavya_mstry)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mistrybhavya/)
