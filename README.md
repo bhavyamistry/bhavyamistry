@@ -13,12 +13,22 @@
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">View My Portfolio</a><br>
   </div> 
   <br>
-<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
-
-#### :handshake: Connect with me on
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhavyamistry/) 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bhavya_mstry)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mistrybhavya/)
+<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/> <br>
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/bhavyamistry/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:bhavyamistry.ms@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/bhavya_mstry">
+   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+  <a href="https://leetcode.com/mistrybhavya/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
+  </a>
+</div>
+<br>
 
 ## 📈 Profile Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavyamistry&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamistry&layout=compact&theme=transparent&hide_border=true)](https://github.com/bhavyamistry/github-readme-stats)
