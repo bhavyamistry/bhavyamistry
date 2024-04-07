@@ -13,7 +13,7 @@
   🕸️ <a href = "https://annarhysa-albert.my.canva.site/">View My Portfolio</a><br>
   </div> 
   <br>
-<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/> <br>
+<img src="https://komarev.com/ghpvc/?username=bhavyamistry&style=flat-square&color=blue" alt="Profile views"/>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/bhavyamistry/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
