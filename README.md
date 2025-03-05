@@ -8,7 +8,7 @@
   🛰️ Skilled and tech-agnostic with a knack for problem-solving and a quick learning spirit<br>
   👥 Adaptable, Dedicated, result-driven team player <br>
   💻 hands-on experience in software/application development, 🌐 web scraping, 📊 data analysis, and cutting-edge 🤖 machine learning projects <br>
-  📖 Seeking Full-Time Positions in Software / Full-stack / Front-end / Back-end Engineering starting in June 2024 <br>
+  📖 Seeking Full-Time Positions in Software / Full-stack / Front-end / Back-end Engineering <br>
   📫  Let's connect at bhavyamistry.ms@gmail.com <br>
   🕸️ <a href = "https://bhavyamistry.github.io">View My Portfolio</a><br>
   </div> 
